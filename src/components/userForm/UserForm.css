@@ -1,0 +1,4 @@
+.custom-modal {
+    z-index: 1051 !important; /* Higher than Bootstrap's default modal */
+  }
+  
