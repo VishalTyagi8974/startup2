@@ -6,7 +6,7 @@ import HomeNavbar from '../../header/HomeNavbar';
 import TaxCalculator from '../../components/TaxCalculator/TaxCalculator';
 import WhyUs from './WhyUs';
 import ItemCard from "../../components/itemCard/ItemCard";
-import UserForm from '../../components/UserForm/UserForm';
+import UserForm from '../../components/userForm/UserForm';
 const Home = () => {
   return (
     <>
